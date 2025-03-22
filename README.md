@@ -12,6 +12,7 @@
 I’m a **detail-oriented Web Developer** with a passion for building fast, responsive, and scalable web applications.  
 With experience in both startup and corporate environments, I craft digital products that users love. I thrive on **clean code, performance optimization, and intuitive UX**.
 
+---
 ### 🛠️ Tech Stack & Skills
 
 <div align="center">
