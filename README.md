@@ -1,93 +1,113 @@
-# Hi there, I'm Sai Kiran Avusula 👋
+<!-- BANNER -->
+<h1 align="center">Hi 👋, I'm Sai Kiran Avusula</h1>
+<h3 align="center">💻 Passionate Web Developer | React Enthusiast | UI/UX Optimizer</h3>
+<p align="center">
+📍 Hyderabad, India • 📧 saikiranavusula89@gmail.com • 📞 +91 98663-37106 • 🔗 <a href="https://github.com/Saikiran-Avusula" target="_blank">GitHub</a>
+</p>
 
-## 🌟 About Me
+---
 
-I am a detail-oriented Web Developer with expertise in React.js, JavaScript, and UI/UX optimization. Adept at building scalable, high-performance web applications and improving user engagement through intuitive interfaces. I have strong problem-solving skills and hands-on experience in front-end and back-end development. I am seeking to leverage my expertise to develop innovative digital solutions in a fast-paced environment.
+### 🚀 About Me
 
-## 🛠️ Skills
+I’m a **detail-oriented Web Developer** with a passion for building fast, responsive, and scalable web applications.  
+With experience in both startup and corporate environments, I craft digital products that users love. I thrive on **clean code, performance optimization, and intuitive UX**.
+## 🧭 Career Journey
 
-- **Web & Front-End Development:**
-  - Languages: HTML, CSS, JavaScript
-  - Libraries & Frameworks: React.js, Bootstrap, Tailwind CSS
-  - UI/UX Tools: Chrome DevTools, Responsive Design, Performance Optimization
-- **Back-End Development:**
-  - Technologies: REST APIs, Asynchronous JavaScript
-- **Version Control & Tools:**
-  - Version Control: Git, GitHub
-  - Package Managers: npm (Node Package Manager)
-- **Soft Skills:**
-  - Problem-Solving, Communication, Team Collaboration, Agile Development
+| Year | Role/Activity | Highlights |
+|------|---------------|------------|
+| 🎓 2022 | Graduated | CMR Engineering College – B.Tech in CSE |
+| 💼 2022 | Intern | Cognizant – Program Analyst Trainee |
+| 🛑 2023 | Gap Year | Family Responsibilities & Skill Building |
+| 🔧 2024 | Junior Developer | Amoghnya Tech Solutions (1-month) |
+| 📚 2024 | Upskilling | React.js, Projects, APIs, Tailwind |
+| 🚀 2025 | Job Seeker | Looking for Frontend/Web Dev Roles |
+---
 
-## 💼 Work Experience
+### 🛠️ Tech Stack & Skills
 
-### Amoghnya Tech Solutions Pvt Ltd | Junior Developer
-*April 2023 – April 2024 | Hyderabad, India*
+<div align="center">
 
-- 🚀 Engineered and optimized user interfaces using React.js, JavaScript, and Bootstrap, boosting website performance by 30%.
-- 🎨 Redesigned UI components, leading to a 25% reduction in bounce rate and improved UX.
-- 🔄 Integrated API-based features in Agile teams, cutting development time by 20%.
-- ⚡ Enhanced page load speed by 40% through optimized component rendering and reduced code redundancy.
-- 🔧 Diagnosed and resolved UI issues, reducing customer-reported issues by 35%.
+<!-- Languages -->
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
-### Cognizant Technology Solutions India Pvt Ltd | Program Analyst Trainee (Internship)
-*March 2022 – November 2022 | Hyderabad, India*
+<!-- Libraries & Frameworks -->
+<br/>
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Bootstrap-5C3D9C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Framer_Motion-E10098?style=for-the-badge&logo=framer&logoColor=white" />
 
-- 💻 Developed interactive web applications using JavaScript, HTML, and CSS, improving internal efficiency by 15%.
-- 🛠️ Designed dynamic, reusable UI components, increasing developer productivity and code efficiency.
-- 📈 Streamlined web performance through code optimizations, improving user engagement by 20%.
-- 📝 Authored detailed documentation on workflows, enhancing cross-functional team collaboration.
+<!-- Backend Tools -->
+<br/>
+<img src="https://img.shields.io/badge/REST%20API-00599C?style=for-the-badge&logo=swagger&logoColor=white" />
+<img src="https://img.shields.io/badge/Async JS-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
 
-## 🎓 Education
+<!-- Tools -->
+<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+<img src="https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
 
-**Bachelor of Technology (B.Tech) – Computer Science Engineering**
-*CMR Engineering College, Hyderabad (2018 – 2022)* CGPA: 6.41 / Percentage: 60.8%
+</div>
 
-## 📚 Projects
+---
 
-### Bus Ticket Booking Application
-*Technologies: React.js, Tailwind CSS, Framer Motion, React-Router-DOM*
+### ✨ Featured Projects
 
-- 🚌 Built a real-time bus ticket booking system with seat availability tracking, secure checkout, and invoice generation.
-- 🔍 Optimized search and filter functionalities, increasing user efficiency by 35%.
-- 💫 Implemented Framer Motion animations, enhancing UI engagement by 40%.
+#### 🚌 Bus Ticket Booking App  
+> Built with React.js, Tailwind CSS, Framer Motion  
+🎯 Features: Real-time seat tracking, secure checkout, invoice generation
 
-### Weather Application
-*Technologies: HTML, CSS, JavaScript, OpenWeather API*
+#### 🌦️ Weather Application  
+> Built with HTML, CSS, JavaScript, OpenWeather API  
+📡 Features: Real-time weather data with dynamic icons
 
-- ☀️ Developed a weather application providing real-time temperature, humidity, and wind speed updates.
-- 🌐 Implemented an intuitive UI with dynamic icons and error handling for improved usability.
-- ⚙️ Utilized asynchronous JavaScript for fast and accurate data fetching.
+#### 🌐 Portfolio Website  
+> Built with React.js, Tailwind CSS  
+💡 Features: Smooth navigation, responsive design, optimized performance
 
-### Portfolio Website
-*Technologies: React.js, Tailwind CSS, React-Router-DOM*
+---
 
-- 🌟 Designed a modern portfolio website showcasing projects, skills, and professional experience.
-- 🚀 Integrated smooth navigation and animations, reducing page load time by 40%.
+### 📜 Certifications
 
-## 🏆 Certifications & Achievements
+- ✅ **Frontend Development with React.js** – Udemy  
+- ✅ **Git & GitHub Essentials** – Coursera  
 
-- 🥇 Frontend Development with React.js – Udemy
-- 🥈 Git & GitHub Essentials – Coursera
+---
 
-## 🌐 Connect with Me
+### 📈 GitHub Stats
 
-- [GitHub](https://github.com/Saikiran-Avusula)
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter-handle)
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=Saikiran-Avusula&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Saikiran-Avusula&theme=tokyonight" width="48%" />
+</div>
 
-<style>
-@keyframes fadeIn {
-    from { opacity: 0; }
-    to { opacity: 1; }
-}
-@keyframes slideIn {
-    from { transform: translateY(20px); opacity: 0; }
-    to { transform: translateY(0); opacity: 1; }
-}
-h1, h2, h3, p {
-    animation: fadeIn 2s ease-in;
-}
-ul {
-    animation: slideIn 2s ease-in;
-}
-</style>
+---
+
+<div align="center">
+
+<h3>📬 Let’s Connect & Collaborate on Something Fun! 💬</h3>
+
+<p><strong>💡 I’m open to collaborations, internships, and exciting frontend opportunities.</strong></p>
+
+<p>
+  📬 <a href="mailto:saikiranavusula89@gmail.com">saikiranavusula89@gmail.com</a> • 🌍 Hyderabad <br/>
+  🤝 Open to opportunities • 🌐 Portfolio: 
+  <a href="https://vercel.com/saikiran-avusulas-projects/my_portfolio" target="_blank">Click Here</a>
+</p>
+
+</div>
+
+
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F71D1D&center=true&vCenter=true&width=500&lines=Hi+I'm+Sai+Kiran+Avusula+👋;Frontend+Developer+💻;React+Enthusiast+⚛️;Let's+Build+the+Web+Together!+🚀" alt="Typing SVG" />
+</p>
+
+---
+
