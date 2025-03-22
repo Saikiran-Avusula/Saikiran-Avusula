@@ -1,7 +1,5 @@
 # Hi there, I'm Sai Kiran Avusula 👋
 
-![Profile views](https://gpvc.arturio.dev/Saikiran-Avusula)
-
 ## 🌟 About Me
 
 I am a detail-oriented Web Developer with expertise in React.js, JavaScript, and UI/UX optimization. Adept at building scalable, high-performance web applications and improving user engagement through intuitive interfaces. I have strong problem-solving skills and hands-on experience in front-end and back-end development. I am seeking to leverage my expertise to develop innovative digital solutions in a fast-paced environment.
