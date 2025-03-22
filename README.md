@@ -11,17 +11,6 @@
 
 I’m a **detail-oriented Web Developer** with a passion for building fast, responsive, and scalable web applications.  
 With experience in both startup and corporate environments, I craft digital products that users love. I thrive on **clean code, performance optimization, and intuitive UX**.
-## 🧭 Career Journey
-
-| Year | Role/Activity | Highlights |
-|------|---------------|------------|
-| 🎓 2022 | Graduated | CMR Engineering College – B.Tech in CSE |
-| 💼 2022 | Intern | Cognizant – Program Analyst Trainee |
-| 🛑 2023 | Gap Year | Family Responsibilities & Skill Building |
-| 🔧 2024 | Junior Developer | Amoghnya Tech Solutions (1-month) |
-| 📚 2024 | Upskilling | React.js, Projects, APIs, Tailwind |
-| 🚀 2025 | Job Seeker | Looking for Frontend/Web Dev Roles |
----
 
 ### 🛠️ Tech Stack & Skills
 
@@ -76,6 +65,15 @@ With experience in both startup and corporate environments, I craft digital prod
 - ✅ **Frontend Development with React.js** – Udemy  
 - ✅ **Git & GitHub Essentials** – Coursera  
 
+---
+
+### 🎓 Education
+
+- **Bachelor of Technology (B.Tech)**  
+  *Computer Science Engineering*  
+  **CMR Engineering College**, Hyderabad, India  
+  📅 *2018 – 2022*  
+  📊 *CGPA: 6.41 / Percentage: 60.8%*
 ---
 
 ### 📈 GitHub Stats
