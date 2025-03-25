@@ -47,14 +47,14 @@ With experience in both startup and corporate environments, I craft digital prod
 
 ### ✨ Featured Projects
 
-#### 🚌 Bus Ticket Booking App  
+#### 🚌 Bus Ticket Booking App | <a href="bus-ticket-booking-application-tau.vercel.app" target="_blank">🔗Link</a> 
 > Built with React.js, Tailwind CSS, Framer Motion  
 🎯 Features: Real-time seat tracking, secure checkout, invoice generation </br>
 > ● Built a real-time bus ticket booking system with seat availability tracking, secure checkout, and invoice generation. </br>
 > ● Optimized search and filter functionalities, increasing user efficiency by 35%. </br>
 > ● Implemented Framer Motion animations, enhancing UI engagement by 40%.
 
-#### 🌦️ Weather Application  
+#### 🌦️ Weather Application | <a href="https://saikiran-avusula.github.io/Projects-Git/Weather%20App/indexWeather.html" target="_blank">🔗Link</a>
 > Built with HTML, CSS, JavaScript, OpenWeather API  
 📡 Features: Real-time weather data with dynamic icons </br>
 > ●	Developed a weather application that updates real-time temperature, humidity, and wind speed. </br>
@@ -62,7 +62,7 @@ With experience in both startup and corporate environments, I craft digital prod
 > ●	Utilized asynchronous JavaScript for fast and accurate data fetching.
 
 
-#### 🌐 Portfolio Website | <a href="myportfolio-ghkbty2z2-saikiran-avusulas-projects.vercel.app" target="_blank">🔗Link</a>
+#### 🌐 Portfolio Website | <a href="https://myportfolio-sai-kiran-avusula.vercel.app/" target="_blank">🔗Link</a>
 > Built with React.js, Tailwind CSS  
 💡 Features: Smooth navigation, responsive design, optimized performance </br>
 > ●	Designed a modern portfolio website showcasing projects, skills, and professional experience. </br>
