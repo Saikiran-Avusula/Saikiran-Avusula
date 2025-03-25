@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-I’m a **detail-oriented Web Developer** with a passion for building fast, responsive, and scalable web applications.  
+I’m a **detail-oriented Web Developer** passionate about building fast, responsive, and scalable web applications.  
 With experience in both startup and corporate environments, I craft digital products that users love. I thrive on **clean code, performance optimization, and intuitive UX**.
 
 ---
@@ -52,15 +52,22 @@ With experience in both startup and corporate environments, I craft digital prod
 🎯 Features: Real-time seat tracking, secure checkout, invoice generation </br>
 > ● Built a real-time bus ticket booking system with seat availability tracking, secure checkout, and invoice generation. </br>
 > ● Optimized search and filter functionalities, increasing user efficiency by 35%. </br>
-> ● Implemented Framer Motion animations, enhancing UI engagement by 40%. </br>
+> ● Implemented Framer Motion animations, enhancing UI engagement by 40%.
 
 #### 🌦️ Weather Application  
 > Built with HTML, CSS, JavaScript, OpenWeather API  
-📡 Features: Real-time weather data with dynamic icons
+📡 Features: Real-time weather data with dynamic icons </br>
+> ●	Developed a weather application that updates real-time temperature, humidity, and wind speed. </br>
+> ●	Implemented an intuitive UI with dynamic icons and error handling for improved usability. </br>
+> ●	Utilized asynchronous JavaScript for fast and accurate data fetching.
 
-#### 🌐 Portfolio Website  
+
+#### 🌐 Portfolio Website | <a href="myportfolio-ghkbty2z2-saikiran-avusulas-projects.vercel.app" target="_blank">🔗Link</a>
 > Built with React.js, Tailwind CSS  
-💡 Features: Smooth navigation, responsive design, optimized performance
+💡 Features: Smooth navigation, responsive design, optimized performance </br>
+> ●	Designed a modern portfolio website showcasing projects, skills, and professional experience. </br>
+> ●	Integrated smooth navigation and animations, reducing page load time by 40%.
+
 
 ---
 
