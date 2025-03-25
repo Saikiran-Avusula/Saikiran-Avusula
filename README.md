@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sai Kiran Avusula</h1>
 <h3 align="center">💻 Passionate Web Developer | React Enthusiast | UI/UX Optimizer</h3>
 <p align="center">
-📍 Hyderabad, India • 📧 saikiranavusula89@gmail.com • 📞 +91 98663-37106 • 🔗 <a href="https://github.com/Saikiran-Avusula" target="_blank">GitHub</a>
+📍 Hyderabad, India • 📧 saikiranavusula89@gmail.com • 📞 +91 98663-37106 • 🔗 <a href="https://www.linkedin.com/in/sai-kiran-avusula-096655290/" target="_blank">LinkedIn</a>
 </p>
 
 ---
