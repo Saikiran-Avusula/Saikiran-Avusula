@@ -50,6 +50,9 @@ With experience in both startup and corporate environments, I craft digital prod
 #### 🚌 Bus Ticket Booking App  
 > Built with React.js, Tailwind CSS, Framer Motion  
 🎯 Features: Real-time seat tracking, secure checkout, invoice generation
+> Built a real-time bus ticket booking system with seat availability tracking, secure checkout, and invoice generation.
+> Optimized search and filter functionalities, increasing user efficiency by 35%.
+> Implemented Framer Motion animations, enhancing UI engagement by 40%.
 
 #### 🌦️ Weather Application  
 > Built with HTML, CSS, JavaScript, OpenWeather API  
