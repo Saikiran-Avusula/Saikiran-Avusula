@@ -78,7 +78,9 @@ Driven by curiosity and a commitment to growth, I continuously explore **emergin
 
 ### 📜 Certifications
 - ✅ **Frontend Development with React.js** – Udemy  
-- ✅ **Git & GitHub Essentials** – Coursera  
+- ✅ **Git & GitHub Essentials** – Coursera
+- ✅ **Java Online Course [Updated 2025]** – GeeksforGeeks - 
+  ([View Certificate](https://media.geeksforgeeks.org/courses/certificates/e1c621d15810a173e71129f6adb66f6f.pdf))
 
 ---
 
